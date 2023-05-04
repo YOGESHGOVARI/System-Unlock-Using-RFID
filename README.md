@@ -33,7 +33,7 @@ VCC -----> 3.3v<br/>
 # Results
 ![image](https://user-images.githubusercontent.com/73241374/236283500-1a233e24-e039-4379-a702-2ec93b43e1ef.png) <br/>
 Locked System <br/>
-![image](https://user-images.githubusercontent.com/73241374/236283547-0421035b-9ccd-47a0-bb27-f9f8ff29ca2c.png)
+![image](https://user-images.githubusercontent.com/73241374/236283547-0421035b-9ccd-47a0-bb27-f9f8ff29ca2c.png) <br/>
 Entering Password using Rfid Tag <br/>
-![image](https://user-images.githubusercontent.com/73241374/236283587-74f9d1a6-1833-417d-ad5e-44cc8b30f7b8.png)
+![image](https://user-images.githubusercontent.com/73241374/236283587-74f9d1a6-1833-417d-ad5e-44cc8b30f7b8.png) <br/>
 System unlocked using RFID <br/>
