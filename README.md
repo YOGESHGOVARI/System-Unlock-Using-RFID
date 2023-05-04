@@ -16,9 +16,9 @@ Unlocking a system using RFID and Arduino involves using an Arduino microcontrol
 
 #Connections
 
-RFID     Arduino
-SDA -----> 10
-SCK -----> 13
+RFID     Arduino <br/>
+SDA -----> 10 <br/>
+SCK -----> 13 <br/>
 MOSI -----> 12
 MISO -----> 11
 GND -----> GND
